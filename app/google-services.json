@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827872744393",
+    "firebase_url": "https://kotlin-social-media-app.firebaseio.com",
+    "project_id": "kotlin-social-media-app",
+    "storage_bucket": "kotlin-social-media-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827872744393:android:eb7e190148d11444ec0e18",
+        "android_client_info": {
+          "package_name": "com.example.kotlinappproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827872744393-gm4ou30c5gsok291v2q9bm6mmejnioku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB28EqS-wz_wGwkb7_iS6xb05vJcRKPSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827872744393-gm4ou30c5gsok291v2q9bm6mmejnioku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
